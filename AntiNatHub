@@ -28,7 +28,7 @@ else
         [994732206] = "https://api.luarmor.net/files/v4/loaders/1ba7f8bc6888d119d65cdafbe3d78527.lua" -- Blox Fruit
     }
     scriptID = {
-        [7436755782] = "483d639ad74a7814ff1057d68cec56c2", -- Grow a Garden
+        --[7436755782] = "483d639ad74a7814ff1057d68cec56c2", -- Grow a Garden
         [7018190066] = "a3e99a8c1a465fc973e7aa0dda0e220c", -- Dead Rails
         [6325068386] = "50ba70185011d66f3ed97e4e7f50bd11", -- BLR
         [4777817887] = "6f48a7a95292a0885256d242900d81fb", -- BB
